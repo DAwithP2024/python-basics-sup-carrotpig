@@ -32,7 +32,7 @@ products = {
 
 
 def display_sorted_products(products_list, sort_order):
-    pass
+    pass;
 
 
 def display_products(products_list):
