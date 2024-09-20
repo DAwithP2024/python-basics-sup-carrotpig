@@ -1,4 +1,3 @@
-# Products available in the store by category
 products = {
     "IT Products": [
         ("Laptop", 1000),
